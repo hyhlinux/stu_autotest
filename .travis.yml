@@ -5,8 +5,5 @@ python:
 install: 
 -  "pip install pytest"
 script:
-- "cd hyhlinux/;"
-- "ls -l;"
-- "cd stu_autotest/;"
 - "ls -l;"
 - "python ./test_pytest/test_main.py" 
