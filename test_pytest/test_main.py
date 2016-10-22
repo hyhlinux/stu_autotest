@@ -8,8 +8,8 @@ def test_main():
 
 if __name__ == '__main__':
     # pytest.main()
-    # pytest.main("-q test_main.py")   # 指定测试文件
-    os.chdir('.')
-    targetpath = os.getcwd()
+    pytest.main("-q test_main.py")   # 指定测试文件
+    # os.chdir('.')
+    # targetpath = os.getcwd()
     print(targetpath)
-    pytest.main(targetpath)             # 指定测试目录
+    # pytest.main(targetpath)             # 指定测试目录
