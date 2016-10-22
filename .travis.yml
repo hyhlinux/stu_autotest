@@ -1,0 +1,8 @@
+# https://travis-ci.org/tornadoweb/tornado
+language: python
+python:
+  - 2.7.8
+install:
+- "./.travis/install.sh"
+script:
+- "./.travis/run.sh" 
