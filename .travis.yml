@@ -2,7 +2,6 @@
 language: python
 python:
   - 2.7.8
-install:
-- "./.travis/install.sh"
+install: pip install django==1.8
 script:
 - "./.travis/run.sh" 
