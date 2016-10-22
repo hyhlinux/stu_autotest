@@ -1,0 +1,12 @@
+. test_class.py::TestClass::()::test_one
+F test_class.py::TestClass::()::test_two
+ self = <test_class.TestClass object at 0x7fe179af6a10>
+ 
+     def test_two(self):
+         x = 'hello'
+ >       assert "hi" == x
+ E       assert 'hi' == 'hello'
+ E         - hi
+ E         + hello
+ 
+ test_class.py:14: AssertionError

@@ -2,7 +2,7 @@
 import os
 user_config = {
     "email":'2285020853@qq.com', 
-    "name":'hyhlinux',
+    "name":'tuopan',
     # "template":'.git_template.txt'
 }
 
