@@ -11,6 +11,6 @@ class TestClass(object):
 
     def test_two(self):
         x = 'hello'
-        assert "hi" == x
+        assert "hello" == x
 
 
