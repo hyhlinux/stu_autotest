@@ -6,4 +6,7 @@ install:
 -  "pip install pytest"
 script:
 - "ls -l;"
-- "python ./test_pytest/test_main.py" 
+- "cd test_pytest;"
+- "ls -l;"
+- "pip list;"
+- "python test_main.py" 
