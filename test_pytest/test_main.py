@@ -1,5 +1,4 @@
 # coding:utf-8 
-<<<<<<< HEAD
 
 =======
 >>>>>>> 8e268cbfe963820cd8b09d8e85534c06fce1fd99
