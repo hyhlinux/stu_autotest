@@ -1,7 +1,7 @@
 # coding:utf-8 
-
-=======
->>>>>>> 8e268cbfe963820cd8b09d8e85534c06fce1fd99
+＃<<<<<<< HEAD
+＃=======
+＃>>>>>>> 8e268cbfe963820cd8b09d8e85534c06fce1fd99
 import pytest
 import os
 
